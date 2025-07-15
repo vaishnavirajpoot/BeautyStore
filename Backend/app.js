@@ -13,7 +13,7 @@ import OrderRouter from './routes/OrderRouter.js';
 import ProductRouter from './routes/ProductRoute.js';
 
 const app = express();
-const allowedOrigins = ['https://beauty-store-wygs.vercel.app/']
+const allowedOrigins = ['https://beauty-store-wygs.vercel.app']
 const port = process.env.PORT || 3000;
 
 // add middleware
