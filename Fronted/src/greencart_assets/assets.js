@@ -36,7 +36,7 @@ import AllMakeup from './AllMakeup.png.png'
 import Pic2 from './Pic2.jpg'
 import Pic3 from './Pic3.jpg'
 import Pic4 from './Pic4.jpg'
-import Pic5 from './Pic5.jpg'
+import Pic5 from './pic5.jpg'
 
 
 export const assets = {
