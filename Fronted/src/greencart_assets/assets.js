@@ -24,7 +24,6 @@ import white_arrow_icon from "./white_arrow_icon.svg";
 
 import add_address_iamge from "./add_address_image.svg";
 import beautyLogo from './beautyLogo.png'
-import Pic5 from './Pic5.jpg'
 import Perfume from './Perfume.jpg'; 
 import BodyCare from './BodyCare.jpg';
 import Makeup from './Makeup.jpg';
